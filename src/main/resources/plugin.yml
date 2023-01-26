@@ -1,0 +1,9 @@
+name: RanksTutorial
+version: '${project.version}'
+main: dev.tim.rankstutorial.Main
+api-version: 1.19
+commands:
+  setrank:
+    description: Set a rank for a player
+  test:
+    description: Test command
